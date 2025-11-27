@@ -1,4 +1,4 @@
-<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/ed005bea-2c35-4ddd-a1bc-c1031b7e4da7" /># Algorithm for QR Decomposition
+
 ## Aim:
 To implement QR decomposition algorithm using the Gram-Schmidt method.
 ## Equipment’s required:
@@ -53,6 +53,6 @@ a = np.array(eval(input()))
 QR_Decomposition(a)
 ```
 ## Output
-
+<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/ed005bea-2c35-4ddd-a1bc-c1031b7e4da7" /># Algorithm for QR Decomposition
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
